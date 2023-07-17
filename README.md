@@ -1,0 +1,1 @@
+# pixi-v7-babel-webpack-5
